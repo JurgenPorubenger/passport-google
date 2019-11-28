@@ -1,0 +1,21 @@
+{
+  "name": "passportgoogle",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cookie-session": "^1.3.3",
+    "debug": "~2.6.9",
+    "ejs": "^3.0.1",
+    "express": "~4.16.1",
+    "googleapis": "latest",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.7.12",
+    "morgan": "~1.9.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
